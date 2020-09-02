@@ -7,7 +7,7 @@
 [Introdução ao Conceito de Sockets](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=introducao-sockets.pdf)
 
 #### Conceitos Relacionados à IoT:
-* [Slides](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=internet_das_coisas_piv.pdf)
+* [Slides](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=iot_slides_introdutorios.pdf)
 * [IoT Comic Book](https://iotcomicbook.org/)
 
 #### Trocando Informações Sensoriadas do Meio entre equipamentos

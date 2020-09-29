@@ -45,3 +45,6 @@ do
 done
 ~~~
 
+### Segundo Encontro - 29/09/2020
+* [Fog & Cloud Computing](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=apresentacao-fund-redes-computadores.pdf)
+

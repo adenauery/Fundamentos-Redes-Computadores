@@ -49,3 +49,26 @@ done
 Discussões sobre Sensores, Atuadores, Cloud and Fog Computing
  * [Apresentação](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=apresentacao-fund-redes-computadores.pdf)
 
+Exemplos de Pesquisas Envolvendo os Cursos:
+
+~~~
+Douglas Scheunemann
+http://olaria.ucpel.edu.br/douglas/
+
+Anderson Cardozo
+http://olaria.ucpel.edu.br/acardozo/
+
+Rogerio Albandes: 
+http://olaria.ucpel.edu.br/ralbandes/
+
+Veronica Tabim:
+http://olaria.ucpel.edu.br/vtabim/
+
+
+Patrick Fernandes
+http://olaria.ucpel.edu.br/patrickjbf/
+
+Felipe Haertel
+http://olaria.ucpel.edu.br/fhaertel/
+
+˜˜˜

@@ -46,7 +46,8 @@ done
 ~~~
 
 ### Segundo Encontro - 29/09/2020
-#### Discussões sobre Sensores, Atuadores, Cloud and Fog Computing
+
+#### Discussões sobre Sensores, Atuadores, Cloud and Fog Computing:
  * [Apresentação](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=apresentacao-fund-redes-computadores.pdf)
  
 #### Rede SIGFOX para Sensores e Atuadores:

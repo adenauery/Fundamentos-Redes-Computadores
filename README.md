@@ -68,7 +68,6 @@ http://olaria.ucpel.edu.br/ralbandes/
 Veronica Tabim:
 http://olaria.ucpel.edu.br/vtabim/
 
-
 Patrick Fernandes
 http://olaria.ucpel.edu.br/patrickjbf/
 

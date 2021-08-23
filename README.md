@@ -28,9 +28,9 @@
 
 * Testes feitos com o Broker: broker.emqx.io
 
-* mosquitto_sub -h broker.emqx.io -t pi4
+* mosquitto_sub -h broker.emqx.io -t pi2a
 
-* mosquitto_pub -h broker.emqx.io -t pi4 -m "Primeira Conexao"
+* mosquitto_pub -h broker.emqx.io -t pi2a -m "Primeira Conexao"
 
 
 #### Publicando com Scritp Bash em Broker MQTT
@@ -39,7 +39,7 @@
 contador=1
 while [ $contador -le 10 ]
 do
-        mosquitto_pub -h broker.emqx.io -t pi4 -m $contador
+        mosquitto_pub -h broker.emqx.io -t pi2a -m $contador
         sleep 3
         let contador=contador+1
 done

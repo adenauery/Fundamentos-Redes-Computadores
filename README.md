@@ -2,7 +2,7 @@
 
 ### Segundo Encontro - 13/09/2021 (Segunda-Feira) - 19h
 
-#### Conceitos Relacionados à IoT:
+#### Conceitos Relacionados a Sistemas que Operam em Redes de Computadores:
 * [Slides](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=iot_slides_introdutorios.pdf)
 * [IoT Comic Book](https://iotcomicbook.org/)
 

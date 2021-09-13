@@ -1,14 +1,15 @@
 ## Fundamentos de Redes de Computadores
 
+### Segundo Encontro - 13/09/2021 (Segunda-Feira) - 19h
+
+#### Conceitos Relacionados à IoT:
+* [Slides](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=iot_slides_introdutorios.pdf)
+* [IoT Comic Book](https://iotcomicbook.org/)
 
 ### Primeiro Encontro - 23/08/2021 (Segunda-Feira) - 19h
 
 #### Sockets TCP & UDP
 [Introdução ao Conceito de Sockets](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=introducao-sockets.pdf)
-
-#### Conceitos Relacionados à IoT:
-* [Slides](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=iot_slides_introdutorios.pdf)
-* [IoT Comic Book](https://iotcomicbook.org/)
 
 #### Trocando Informações Sensoriadas do Meio entre equipamentos
   * Conceitos

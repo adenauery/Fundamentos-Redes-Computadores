@@ -8,6 +8,7 @@
 * [O Protocolo HTTP](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=protocolo-http.pdf)
 * [Enlace de Dados](http://olaria.ucpel.edu.br/materiais/lib/exe/fetch.php?media=enlace-de-dados.pdf)
 * [IoT Comic Book](https://iotcomicbook.org/)
+* [Portas Usuais em TCP/IP](https://pt.wikipedia.org/wiki/Lista_de_portas_dos_protocolos_TCP_e_UDP)
 
 ### Primeiro Encontro - 23/08/2021 (Segunda-Feira) - 19h
 
